@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Mark's GitHub Banner](github_banner.png "Github banner")
+
 <!--
 **mrmarkcann/mrmarkcann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
