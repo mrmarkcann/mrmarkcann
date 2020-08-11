@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Mark 👋
 
 ![Mark's GitHub Banner](https://github.com/mrmarkcann/mrmarkcann/raw/master/github_banner.png "Github banner")
 
