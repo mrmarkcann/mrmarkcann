@@ -2,6 +2,11 @@
 
 ![Mark's GitHub Banner](https://github.com/mrmarkcann/mrmarkcann/raw/master/github_banner.png "Github banner")
 
+I'm an IT professional with about 20 years experience in IT operations and engineering, I've more recently been dabbling with the software side of things and trying to snaffle as much learning as I can about things.
+
+- 🌱 I’m currently learning PowerShell, Python, Terraform, Microsoft Azure and Dot Net amongst other things, probably.
+
+
 <!--
 **mrmarkcann/mrmarkcann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
